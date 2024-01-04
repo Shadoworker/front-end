@@ -248,9 +248,9 @@ any> {
       // cache: "no-cache", // *default, no-cache, reload, force-cache, only-if-cached
       // credentials: "same-origin", // include, *same-origin, omit
       headers: {
-        "access-control-allow-origin": "*",
-        'Access-Control-Allow-Headers': 'Content-Type, Authorization',
-        'Access-Control-Allow-Methods': '*',
+        // "access-control-allow-origin": "*",
+        // 'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+        // 'Access-Control-Allow-Methods': '*',
         'Content-Type': 'application/json',
         'Authorization': 'Bearer 453c14ca-b3be-3d4c-9913-33cab8f7d693',
         'country-code':'sn',
